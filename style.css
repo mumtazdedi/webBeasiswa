@@ -1,0 +1,220 @@
+.body{
+     background-color: rgb(24, 24, 24);
+}
+
+.body1{
+     background: url('img/awal1.png');
+}
+
+.text{
+     text-align: center;
+     margin-top: 300px;
+     color: blanchedalmond;
+}
+
+.text hr{
+     width: 500px;
+     color: blanchedalmond;
+     height: 4px;
+}
+
+.kepala{
+     min-height: 70px;
+}
+
+.sect1{
+     min-height: 150px;
+}
+
+.login{
+     background-color: rgb(2, 8, 36);
+     border-radius: 15px;
+}
+
+.register{
+     background-color: rgb(2, 8, 36);
+     border-radius: 15px;
+}
+
+.tambah{
+     background-color: rgb(2, 8, 36);
+     border-radius: 15px;
+}
+
+.homee{
+     background-color: rgb(56, 56, 56);
+}
+
+.sect{
+     min-height: 500px;
+     scroll-margin-top: 50px;
+}
+
+.sect3{
+     scroll-margin-top: 50px;
+     min-height: 500px;
+}
+
+.sect4{
+     min-height: 700px;
+     scroll-margin-top: 50px;
+}
+
+.homee h2{
+     color: cornsilk;
+     text-align: center;
+}
+
+.homee hr{
+     color: rgb(255, 255, 255);
+     width: 300px;
+     height: 3px;
+     object-position: center;
+}
+
+.homee p{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home h2{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home hr{
+     color: rgb(255, 255, 255);
+     width: 300px;
+     height: 3px;
+     object-position: center;
+}
+
+.home p{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home1 h2{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home1 hr{
+     color: rgb(255, 255, 255);
+     width: 300px;
+     height: 3px;
+     object-position: center;
+}
+
+.home1 p{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home2 h2{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home2 hr{
+     color: rgb(255, 255, 255);
+     width: 300px;
+     height: 3px;
+     object-position: center;
+}
+
+.home2 p{
+     color: cornsilk;
+     text-align: center;
+}
+.home3 h2{
+     color: cornsilk;
+     text-align: center;
+}
+
+.home3 hr{
+     color: rgb(255, 255, 255);
+     width: 300px;
+     height: 3px;
+     object-position: center;
+}
+
+.home3 p{
+     color: cornsilk;
+     text-align: center;
+}
+.caro{
+     width: 700px;
+}
+
+.sect h2{
+     font-size: medium;
+     font-weight: bold;
+     color: cornsilk;
+     text-align: center;
+}
+
+.sect hr{
+     width: 120px;
+     color: cornsilk;
+     height: 3px;
+}
+
+.sect4 h2{
+     font-size: medium;
+     font-weight: bold;
+     color: cornsilk;
+     text-align: center;
+}
+
+.sect4 hr{
+     width: 120px;
+     color: cornsilk;
+     height: 3px;
+}
+
+.sect4 p{
+     color: cornsilk;
+     text-align: center;
+}
+
+.sect4 a{
+     color: cornsilk;
+     text-align: center;
+}
+
+.form{
+     width: 700px;
+}
+
+.jq p{
+     color: blanchedalmond;
+     text-align: center;
+}
+
+.tulisan p{
+     color: blanchedalmond;
+     text-align: center;
+}
+
+.fa-instagram-square{
+     font-size: 50px;
+}
+
+.fa-twitter-square{
+     font-size: 50px;
+}
+
+.fa-whatsapp-square{
+     font-size: 50px;
+}
+
+.tabel{
+     padding-left: 520px;
+     color: blanchedalmond;
+}
+
+.tabel1{
+     text-align: center;
+     padding: 20px;
+}
